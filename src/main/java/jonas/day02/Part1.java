@@ -3,7 +3,7 @@ package jonas.day02;
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class Part1 {
     public static void main(String[] args) {
         String filePath = "./src/main/resources/input_day02";
 
